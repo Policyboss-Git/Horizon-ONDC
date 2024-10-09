@@ -1,0 +1,6 @@
+{
+    "db": {
+        "connection": "mongodb://horizonqaapp:H%40r!z0nQA2108@65.0.176.149",
+        "name": "lm-api-qa"       
+    }
+}
